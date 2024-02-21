@@ -9,5 +9,3 @@ const me = {
   skills: "HTML, CSS, JavaScript, TypeScript, React, Next JS, Tailwind, Bootstrap, Styled Component",
 }
 ```
-
-https://github-readme-stats.vercel.app/api?username=MohammadRohani-8483&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
