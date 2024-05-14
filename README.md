@@ -3,7 +3,7 @@
 ```javascript
 const me = {
   fullName: "Mohammad Rohani",
-  age: 19,
+  birthYear: 2005,
   location:"Iran/Qom",
   skills: "HTML, CSS, JavaScript, TypeScript, React, Next JS, Tailwind, Bootstrap, Styled Component, Git, WordPress, Figma",
 }
