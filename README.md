@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F727B3&random=false&width=435&lines=Hello+Guys+%F0%9F%91%8B;I'm+Mohammad+Rohani;A+Front+Developer;Nice+To+Meet+You." alt="Typing SVG" /></a>
-## AboutMe
+
+
+# 💫 About Me:
+I am a front-end developer specializing in Next.js<br>consistently delivering tasks on time. <br>Currently, I am expanding my skills by learning back-end development with the Nest.js framework. <br>I am passionate about creating efficient and scalable web applications. My goal is to become a full-stack developer and bridge the gap between front-end and back-end technologies. <br>I enjoy solving complex problems and continuously improving my coding skills.
+
 ```javascript
 const me = {
   fullName: "Mohammad Rohani",
@@ -8,9 +12,6 @@ const me = {
   skills: "HTML, CSS, JavaScript, TypeScript, React, Next JS, Tailwind, Bootstrap, Styled Component, Git, WordPress, Figma",
 }
 ```
-
-# 💫 About Me:
-I am a front-end developer specializing in Next.js<br>consistently delivering tasks on time. <br>Currently, I am expanding my skills by learning back-end development with the Nest.js framework. <br>I am passionate about creating efficient and scalable web applications. My goal is to become a full-stack developer and bridge the gap between front-end and back-end technologies. <br>I enjoy solving complex problems and continuously improving my coding skills.
 
 
 ## 🌐 Socials:
